@@ -16,7 +16,7 @@ The experiments were executed on an ARM64 environment using OpenSSL and liboqs.
   (Empty for now) Will contain benchmark automation and CSV parsing utilities
 
 - results/  
-  (Empty for now) Will contain example CSV outputs from benchmark runs
+  CSV outputs from benchmark runs
 
 ## Build Instructions
 
