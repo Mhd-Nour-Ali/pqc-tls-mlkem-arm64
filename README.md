@@ -41,3 +41,6 @@ Example TLS benchmark run:
 - All binaries are compiled with -O3 for consistent benchmarking
 - The full experimental report (PDF) is shared in my LinkedIn post
 
+## Documentation
+- 📄 [Final Project Report](docs/mlkem_tls_arm64_final_report_v4.pdf)
+
