@@ -39,7 +39,6 @@ Example TLS benchmark run:
 
 - Requires OpenSSL 3.x and liboqs installed under /usr/local
 - All binaries are compiled with -O3 for consistent benchmarking
-- The full experimental report (PDF) is shared in my LinkedIn post
 
 ## Documentation
 - 📄 [Final Project Report](docs/mlkem_tls_arm64_final_report_v4.pdf)
